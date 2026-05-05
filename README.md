@@ -51,8 +51,8 @@
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://www.linkedin.com/in/gayatri-rajput-132b44158/
-* GitHub: https://github.com/Gayatri2247
+* LinkedIn: [https://www.linkedin.com/in/gayatri-rajput-132b44158/](https://www.linkedin.com/in/gayatri-rajput-132b44158/)
+* GitHub: [https://github.com/Gayatri2247](https://github.com/Gayatri2247/Gayatri2247)
 
 ---
 
