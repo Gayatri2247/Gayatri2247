@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-* 💻 3+ years experience in Full Stack Development
+* 💻 Full Stack Developer with 3+ years experience
 * ⚙️ Skilled in .NET, Vue.js, API Development
 * 🧠 Worked on Healthcare, Education & Financial systems
 * 🔍 Strong in debugging and real-world problem solving
@@ -22,33 +22,37 @@
 
 ## 🛠️ Tech Stack
 
-**Backend:** .NET Core, ASP.NET, C#
-**Frontend:** Vue.js, JavaScript
-**Database:** SQL Server
-**Tools:** GitHub, CI/CD, Postman
-**Monitoring:** Grafana
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,js,vue,sql,github" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 .NET API Project
+### 🔹 API Project (.NET)
 
-* Authentication (JWT)
+👉 Add your repo link here
+
+* JWT Authentication
 * CRUD Operations
 * SQL Server integration
 
-### 🔹 Full Stack App
+### 🔹 Full Stack App (Vue + .NET)
 
-* Vue.js + .NET backend
-* API integration
-* Dashboard features
+👉 Add your repo link here
+
+* API Integration
+* Dashboard UI
+* Real-time data handling
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://ghstats.dev/api/card?username=Gayatri2247)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gayatri2247&show_icons=true" />
+</p>
 
 ---
 
@@ -59,5 +63,4 @@
 
 ---
 
-⭐ Always learning & improving
-
+⭐ Always learning & building
