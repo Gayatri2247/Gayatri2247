@@ -5,11 +5,11 @@
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer with 3+ years of experience
-* ⚙️ Experienced in .NET, Vue.js, and API development
-* 🧠 Worked on real-world systems (Healthcare, Education, Financial workflows)
-* 🔍 Strong in debugging, backend logic, and system understanding
-* 🚀 Currently building and improving full stack applications
+* 💻 3+ years experience in Full Stack Development
+* ⚙️ Skilled in .NET, Vue.js, API Development
+* 🧠 Worked on Healthcare, Education & Financial systems
+* 🔍 Strong in debugging and performance improvement
+* 🚀 Currently building full stack applications
 
 ---
 
@@ -23,20 +23,20 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 .NET Web API
+### 🔹 User Management API (.NET)
 
 👉 (Add your repo link here)
 
-* JWT Authentication
 * CRUD operations
 * SQL Server integration
+* API testing using Postman
 
-### 🔹 Full Stack Application (Vue + .NET)
+### 🔹 Full Stack App (Vue + .NET)
 
 👉 (Add your repo link here)
 
 * API integration
-* Frontend dashboard using Vue.js
+* Vue.js frontend
 * Backend logic with .NET
 
 ---
