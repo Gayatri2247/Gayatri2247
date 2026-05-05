@@ -5,47 +5,59 @@
 
 
 ---
+<h1 align="center">Hi 👋, I'm Gayatri Rajput</h1>
+<h3 align="center">Full Stack Developer (.NET + Vue.js)</h3>
 
-## 👩‍💻 About Me
+---
 
-* Full Stack Developer with 3+ years of experience
-* Worked on real-world applications (Healthcare, Education, Finance)
-* Skilled in API development, CQRS architecture, and debugging
-* Currently strengthening my skills with hands-on projects
+## 🚀 About Me
+
+* 💻 3+ years experience in Full Stack Development
+* ⚙️ Skilled in .NET, Vue.js, API Development
+* 🧠 Worked on Healthcare, Education & Financial systems
+* 🔍 Strong in debugging and real-world problem solving
+* 🚀 Currently building and improving full stack applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-* 💻 Backend: .NET Core, ASP.NET, C#
-* 🌐 Frontend: Vue.js, JavaScript
-* 🗄️ Database: SQL Server
-* ⚙️ Tools: GitHub, CI/CD, Postman
-* 📊 Monitoring: Grafana
+**Backend:** .NET Core, ASP.NET, C#
+**Frontend:** Vue.js, JavaScript
+**Database:** SQL Server
+**Tools:** GitHub, CI/CD, Postman
+**Monitoring:** Grafana
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Project 1 – API System
+### 🔹 .NET API Project
 
-* Built using .NET Core Web API
-* Implemented CRUD operations
-* Used SQL Server for database
+* Authentication (JWT)
+* CRUD Operations
+* SQL Server integration
 
-### 🔹 Project 2 – Full Stack App
+### 🔹 Full Stack App
 
-* Vue.js frontend + .NET backend
+* Vue.js + .NET backend
 * API integration
-* Basic dashboard
+* Dashboard features
 
 ---
 
-## 📫 Connect with me
+## 📊 GitHub Stats
 
-* LinkedIn: [[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/gayatri-rajput-132b44158/)](https://www.linkedin.com/in/gayatri-rajput-132b44158/)
+![GitHub Stats](https://ghstats.dev/api/card?username=Gayatri2247)
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/gayatri-rajput-132b44158/
 * GitHub: https://github.com/Gayatri2247
 
 ---
 
-⭐ Always learning and improving
+⭐ Always learning & improving
+
