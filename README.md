@@ -1,40 +1,51 @@
-# Hi, I'm a Full Stack .NET Developer 👋
+# Hi, I'm Gayatri Rajput 👋
 
-## 🚀 About Me
-Hi, I'm Gayatri 👋
+Backend-focused Full Stack Developer working with modern .NET and Vue.js technologies.
 
-Backend-focused Full Stack Developer working with:
-- ASP.NET Core
-- .NET 8
-- CQRS & MediatR
-- Vue.js + TypeScript
-- SQL Server
-Full Stack Developer with 3+ years of experience in building scalable enterprise applications using .NET, Vue.js, and SQL Server. Strong focus on backend development, API design, and system architecture.
+## Tech Stack
 
+### Backend
 
-## 🛠️ Tech Stack
-- Backend: .NET Core, Web API, CQRS, MediatR
-- Frontend: Vue.js, JavaScript, TypeScript
-- Database: SQL Server, Stored Procedures, Query Optimization
-- Tools: Git, Postman, Grafana
+* ASP.NET Core Web API
+* .NET 8
+* C#
+* Entity Framework Core
+* CQRS & MediatR
+* JWT Authentication
+* SQL Server
+* Redis
+* Hangfire
+* Serilog
 
-## 🧠 Core Expertise
-- REST API Development
-- Clean Architecture & CQRS
-- Database Design & Optimization
-- Debugging & Production Support
-- Full Stack Integration
+### Frontend
 
-## 📂 Projects
-- Enterprise Web Application (Healthcare System)
-- Education Management System
-- Financial/Reporting Dashboard
+* Vue.js
+* TypeScript
+* JavaScript
+* HTML/CSS
 
-## 📈 Currently Improving
-- System Design (Scalability & Microservices)
-- Advanced SQL Optimization
-- Cloud Deployment Basics
+## Current Focus
 
-## 📫 Contact
-- LinkedIn: [[your-link]](https://www.linkedin.com/in/gayatri-rajput-132b44158)
-- Email: gayatrispaceece.web@gmail.com
+Building scalable backend systems using Clean Architecture and enterprise development practices.
+
+## Featured Project
+
+### SmartOps
+
+Enterprise-style backend application implementing:
+
+* Clean Architecture
+* CQRS
+* JWT Authentication
+* Refresh Tokens
+* Redis Caching
+* Hangfire Jobs
+* Serilog Logging
+* OpenAPI Documentation
+
+## Goals
+
+* Backend Engineering
+* System Design
+* Scalable API Development
+* Full Stack Engineering
