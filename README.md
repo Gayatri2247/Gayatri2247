@@ -1,7 +1,16 @@
 # Hi, I'm a Full Stack .NET Developer 👋
 
 ## 🚀 About Me
+Hi, I'm Gayatri 👋
+
+Backend-focused Full Stack Developer working with:
+- ASP.NET Core
+- .NET 8
+- CQRS & MediatR
+- Vue.js + TypeScript
+- SQL Server
 Full Stack Developer with 3+ years of experience in building scalable enterprise applications using .NET, Vue.js, and SQL Server. Strong focus on backend development, API design, and system architecture.
+
 
 ## 🛠️ Tech Stack
 - Backend: .NET Core, Web API, CQRS, MediatR
