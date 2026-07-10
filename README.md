@@ -2,7 +2,7 @@
 
 ## Full Stack Developer | ASP.NET Core | Vue.js | TypeScript | SQL Server
 
-I'm a Full Stack Developer with 4+ years of experience designing, developing, and maintaining enterprise web applications using ASP.NET Core, .NET, Vue.js, TypeScript, and SQL Server.
+I'm a Full Stack Developer with 3+ years of experience designing, developing, and maintaining enterprise web applications using ASP.NET Core, .NET, Vue.js, TypeScript, and SQL Server.
 
 Currently, I contribute to enterprise software solutions in the Finance and Smart Parking domains, where I coordinate development activities, collaborate with cross-functional teams, and help deliver scalable, high-quality applications following Agile methodologies.
 
